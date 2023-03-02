@@ -1,0 +1,40 @@
+.restaurante{
+    background-color: black;
+    width: 100%;
+    border: none;
+    border-radius: 30px;
+}
+
+.restaurante img{
+    height: 115px;
+    width: auto;
+}
+
+.centrar{
+    text-align: center;
+    display: table;
+    margin: auto;
+}
+
+.selector{
+    opacity: 0.5    ;
+    width: 100%;
+    border: none;
+    border-radius: 30px;
+}
+
+.selectorcurrent{
+    opacity: 0.5;
+    width: 100%;
+    border: none;
+    border-radius: 30px;
+}
+
+html,body{
+    background-image: url(../assets/cover1.jpg);
+    color: white;
+    background-attachment: fixed;
+    background-repeat: none;
+    background-size: cover;
+    
+}  
